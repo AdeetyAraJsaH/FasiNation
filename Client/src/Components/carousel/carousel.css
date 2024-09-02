@@ -1,0 +1,81 @@
+.-carousel {
+    position: relative;
+    height: fit-content;
+    width: 100%;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+
+.carousel-container {
+    position: relative;
+    margin: 0 auto;
+    /* background-color: #000; */
+}
+
+.carousel-track {
+    position: relative;
+    height: 100%;
+    overflow-x: scroll;
+    /* transition: transform 300ms ease-in-out; */
+}
+
+.carousel-slide {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    /* left: calc(100% * var(--position)); */
+    transform: translateX(calc(100% * var(--position)));
+    transition: transform 500ms ease-in-out;
+}
+
+.carousel-slide img {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover
+}
+
+.carousel-btn {
+    z-index: 1;
+    opacity: 0;
+    position: absolute;
+    padding: 1rem;
+    border-radius: 50%;
+    background-color: #e8dcdca7;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: scale 200ms linear, opacity 200ms linear;
+}
+
+.-carousel:hover .carousel-btn {
+    opacity: 1;
+}
+
+.carousel-btn:active {
+    scale: 0.8;
+}
+
+.carousel-nav {
+    display: flex;
+    /* background-color: #000; */
+    justify-content: center;
+    padding: 10px 0;
+}
+
+.carousel-nav-btn {
+    height: 14px;
+    width: 14px;
+    background-color: rgba(174, 162, 162, 0.837);
+    margin: 0 10px;
+    border-radius: 50%;
+    transition: all 100ms linear;
+}
+
+.carousel-nav-btn:hover {
+    background-color: rgba(82, 75, 75, 0.834);
+}
+
+.carousel-nav-btn.current-slide {
+    background-color: rgba(22, 22, 22, 0.851);
+}

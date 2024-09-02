@@ -1,0 +1,72 @@
+{
+    "sizeinfo": {
+        "sizes": [
+            {
+                "value": "XS",
+                "shoulder": {
+                    "in": 15.7,
+                    "cm": 39.88
+                },
+                "chest": {
+                    "in": 36,
+                    "cm": 91.44
+                }
+            },
+            {
+                "value": "S",
+                "shoulder": {
+                    "in": 16.4,
+                    "cm": 41.66
+                },
+                "chest": {
+                    "in": 38,
+                    "cm": 96.52
+                }
+            },
+            {
+                "value": "M",
+                "shoulder": {
+                    "in": 17,
+                    "cm": 43.18
+                },
+                "chest": {
+                    "in": 40,
+                    "cm": 101.6
+                }
+            },
+            {
+                "value": "L",
+                "shoulder": {
+                    "in": 17.6,
+                    "cm": 44.7
+                },
+                "chest": {
+                    "in": 42,
+                    "cm": 106.6
+                }
+            },
+            {
+                "value": "XL",
+                "shoulder": {
+                    "in": 18.2,
+                    "cm": 46.23
+                },
+                "chest": {
+                    "in": 44,
+                    "cm": 111.76
+                }
+            },
+            {
+                "value": "XXL",
+                "shoulder": {
+                    "in": 18.9,
+                    "cm": 48.01
+                },
+                "chest": {
+                    "in": 46,
+                    "cm": 116.84
+                }
+            }
+        ]
+    }
+}

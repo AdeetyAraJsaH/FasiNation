@@ -1,0 +1,88 @@
+{
+    "slides": [
+        {
+            "src": "https://images.pexels.com/photos/3771071/pexels-photo-3771071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner1"
+        },
+        {
+            "src": "https://images.pexels.com/photos/2315228/pexels-photo-2315228.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner2"
+        },
+        {
+            "src": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner3"
+        },
+        {
+            "src": "https://images.pexels.com/photos/3965545/pexels-photo-3965545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner4"
+        },
+        {
+            "src": "https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner5"
+        }
+    ],
+    "banner": [
+        {
+            "src": "https://images.pexels.com/photos/4919724/pexels-photo-4919724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner1"
+        },
+        {
+            "src": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner2"
+        },
+        {
+            "src": "https://images.pexels.com/photos/16674664/pexels-photo-16674664/free-photo-of-dashtrends-x-j-scott-photography.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner3"
+        },
+        {
+            "src": "https://images.pexels.com/photos/914668/pexels-photo-914668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner4"
+        },
+        {
+            "src": "https://images.pexels.com/photos/8916600/pexels-photo-8916600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner5"
+        }
+    ],
+    "mediaScroller": [
+        {
+            "src": "https://images.pexels.com/photos/3771071/pexels-photo-3771071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner1"
+        },
+        {
+            "src": "https://images.pexels.com/photos/2315228/pexels-photo-2315228.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner2"
+        },
+        {
+            "src": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner3"
+        },
+        {
+            "src": "https://images.pexels.com/photos/3965545/pexels-photo-3965545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner4"
+        },
+        {
+            "src": "https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner5"
+        },
+        {
+            "src": "https://images.pexels.com/photos/4919724/pexels-photo-4919724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner6"
+        },
+        {
+            "src": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner7"
+        },
+        {
+            "src": "https://images.pexels.com/photos/16674664/pexels-photo-16674664/free-photo-of-dashtrends-x-j-scott-photography.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner8"
+        },
+        {
+            "src": "https://images.pexels.com/photos/914668/pexels-photo-914668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner9"
+        },
+        {
+            "src": "https://images.pexels.com/photos/8916600/pexels-photo-8916600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "banner10"
+        }
+    ]
+}

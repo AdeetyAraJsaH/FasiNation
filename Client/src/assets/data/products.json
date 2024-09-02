@@ -1,0 +1,1876 @@
+{
+    "tShirts": [
+        {
+            "id": 1,
+            "src": "https://assets.ajio.com/medias/sys_master/root/20230812/bpEp/64d77730eebac147fcc4f16c/-473Wx593H-466428340-black-MODEL.jpg",
+            "alt": "img",
+            "size": "XL",
+            "color": "#000000",
+            "brand": "Armani Exchange",
+            "price": 49.99,
+            "name": "Black Half-sleeve T-shirt",
+            "img": [
+                "https://assets.ajio.com/medias/sys_master/root/20230812/bpEp/64d77730eebac147fcc4f16c/-473Wx593H-466428340-black-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230812/sm9f/64d77374a9b42d15c9a8fc2f/-473Wx593H-466428340-black-MODEL2.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230812/ArTI/64d77445eebac147fcc4df92/-473Wx593H-466428340-black-MODEL3.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230812/QMKe/64d77f13a9b42d15c9a9373e/-1117Wx1400H-466428340-black-MODEL4.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230812/owUV/64d77898eebac147fcc4f87e/-1117Wx1400H-466428340-black-MODEL5.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230812/TkrV/64d770ffeebac147fcc4cc9e/-473Wx593H-466428340-black-MODEL6.jpg"
+            ],
+            "product_variations": {
+                "size": [
+                    {
+                        "value": "XS",
+                        "is_available": false
+                    },
+                    {
+                        "value": "S",
+                        "is_available": true
+                    },
+                    {
+                        "value": "M",
+                        "is_available": true
+                    },
+                    {
+                        "value": "L",
+                        "is_available": false
+                    },
+                    {
+                        "value": "XL",
+                        "is_available": true
+                    },
+                    {
+                        "value": "XXL",
+                        "is_available": false
+                    }
+                ],
+                "color": [
+                    {
+                        "value": "#494c39",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#808000",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#000000",
+                        "is_available": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "src": "https://assets.ajio.com/medias/sys_master/root/20230602/KbAN/64793c2fd55b7d0c63381135/-1117Wx1400H-461766734-maroon-MODEL.jpg",
+            "alt": "img",
+            "size": "M",
+            "color": "#49151f",
+            "brand": "Fort Collins",
+            "price": 59.99,
+            "name": "Maroon & Olive Half-Tees",
+            "img": [
+                "https://assets.ajio.com/medias/sys_master/root/20230602/KbAN/64793c2fd55b7d0c63381135/-1117Wx1400H-461766734-maroon-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230602/KbAN/64793c2fd55b7d0c63381135/-1117Wx1400H-461766734-maroon-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230602/KbAN/64793c2fd55b7d0c63381135/-1117Wx1400H-461766734-maroon-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230602/KbAN/64793c2fd55b7d0c63381135/-1117Wx1400H-461766734-maroon-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230602/KbAN/64793c2fd55b7d0c63381135/-1117Wx1400H-461766734-maroon-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230602/KbAN/64793c2fd55b7d0c63381135/-1117Wx1400H-461766734-maroon-MODEL.jpg"
+            ],
+            "product_variations": {
+                "size": [
+                    {
+                        "value": "XS",
+                        "is_available": false
+                    },
+                    {
+                        "value": "S",
+                        "is_available": true
+                    },
+                    {
+                        "value": "M",
+                        "is_available": true
+                    },
+                    {
+                        "value": "L",
+                        "is_available": false
+                    },
+                    {
+                        "value": "XL",
+                        "is_available": true
+                    },
+                    {
+                        "value": "XXL",
+                        "is_available": false
+                    }
+                ],
+                "color": [
+                    {
+                        "value": "#ffffff",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#49151f",
+                        "is_available": true
+                    },
+                    {
+                        "value": "#000000",
+                        "is_available": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "src": "https://assets.ajio.com/medias/sys_master/root/20220405/eNY7/624c3beaaeb26921af0bac42/-473Wx593H-469177957-pink-MODEL.jpg",
+            "alt": "img",
+            "size": "M",
+            "color": "#edb2ac",
+            "brand": "PUMA",
+            "price": 39.99,
+            "name": "Half t-shirt",
+            "img": [
+                "https://assets.ajio.com/medias/sys_master/root/20220405/eNY7/624c3beaaeb26921af0bac42/-473Wx593H-469177957-pink-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220405/eNY7/624c3beaaeb26921af0bac42/-473Wx593H-469177957-pink-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220405/eNY7/624c3beaaeb26921af0bac42/-473Wx593H-469177957-pink-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220405/eNY7/624c3beaaeb26921af0bac42/-473Wx593H-469177957-pink-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220405/eNY7/624c3beaaeb26921af0bac42/-473Wx593H-469177957-pink-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20220405/eNY7/624c3beaaeb26921af0bac42/-473Wx593H-469177957-pink-MODEL.jpg"
+            ],
+            "product_variations": {
+                "size": [
+                    {
+                        "value": "XS",
+                        "is_available": false
+                    },
+                    {
+                        "value": "S",
+                        "is_available": true
+                    },
+                    {
+                        "value": "M",
+                        "is_available": true
+                    },
+                    {
+                        "value": "L",
+                        "is_available": false
+                    },
+                    {
+                        "value": "XL",
+                        "is_available": true
+                    },
+                    {
+                        "value": "XXL",
+                        "is_available": false
+                    }
+                ],
+                "color": [
+                    {
+                        "value": "#ffffff",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#808000",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#edb2ac",
+                        "is_available": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "src": "https://assets.ajio.com/medias/sys_master/root/20240226/kMg7/65dcbe4b05ac7d77bb7c01a7/-1117Wx1400H-467109574-white-MODEL.jpg",
+            "alt": "img",
+            "size": "M",
+            "color": "#f4f0e5",
+            "brand": "Armani Exchange",
+            "price": 43.39,
+            "name": "Boston cool yellow-white T-Shirt",
+            "img": [
+                "https://assets.ajio.com/medias/sys_master/root/20240716/JQ9V/6696affa1d763220fac8cb1a/-1117Wx1400H-467109574-white-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240716/n74f/6696affa1d763220fac8cbc3/-1117Wx1400H-467109574-white-MODEL2.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240716/IOfg/6696affa1d763220fac8cbc5/-1117Wx1400H-467109574-white-MODEL3.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240716/iJu5/6696affa1d763220fac8cbc2/-1117Wx1400H-467109574-white-MODEL4.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240716/EYD8/6696affa1d763220fac8cbbb/-473Wx593H-467109574-white-MODEL5.jpg"
+            ],
+            "product_variations": {
+                "size": [
+                    {
+                        "value": "XS",
+                        "is_available": false
+                    },
+                    {
+                        "value": "S",
+                        "is_available": true
+                    },
+                    {
+                        "value": "M",
+                        "is_available": true
+                    },
+                    {
+                        "value": "L",
+                        "is_available": false
+                    },
+                    {
+                        "value": "XL",
+                        "is_available": true
+                    },
+                    {
+                        "value": "XXL",
+                        "is_available": false
+                    }
+                ],
+                "color": [
+                    {
+                        "value": "#f4f0e5",
+                        "is_available": true
+                    },
+                    {
+                        "value": "#808000",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#000000",
+                        "is_available": false
+                    }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "src": "https://assets.ajio.com/medias/sys_master/root/20230628/xciX/649bb3b3a9b42d15c9077111/-473Wx593H-465814588-green-MODEL.jpg",
+            "alt": "img",
+            "size": "M",
+            "color": "#000000",
+            "brand": "Netplay",
+            "price": 45.99,
+            "name": "Polo T-shirt",
+            "img": [
+                "https://assets.ajio.com/medias/sys_master/root/20230628/xciX/649bb3b3a9b42d15c9077111/-473Wx593H-465814588-green-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230628/xciX/649bb3b3a9b42d15c9077111/-473Wx593H-465814588-green-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230628/xciX/649bb3b3a9b42d15c9077111/-473Wx593H-465814588-green-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230628/xciX/649bb3b3a9b42d15c9077111/-473Wx593H-465814588-green-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230628/xciX/649bb3b3a9b42d15c9077111/-473Wx593H-465814588-green-MODEL.jpg"
+            ],
+            "product_variations": {
+                "size": [
+                    {
+                        "value": "XS",
+                        "is_available": false
+                    },
+                    {
+                        "value": "S",
+                        "is_available": true
+                    },
+                    {
+                        "value": "M",
+                        "is_available": true
+                    },
+                    {
+                        "value": "L",
+                        "is_available": false
+                    },
+                    {
+                        "value": "XL",
+                        "is_available": true
+                    },
+                    {
+                        "value": "XXL",
+                        "is_available": false
+                    }
+                ],
+                "color": [
+                    {
+                        "value": "#ffffff",
+                        "is_available": true
+                    },
+                    {
+                        "value": "#d2983f",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#909d81",
+                        "is_available": true
+                    },
+                    {
+                        "value": "#808000",
+                        "is_available": true
+                    },
+                    {
+                        "value": "#000000",
+                        "is_available": false
+                    }
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "src": "https://assets.ajio.com/medias/sys_master/root/20240513/TZhF/6641b55a05ac7d77bb5676db/-473Wx593H-466993304-white-MODEL.jpg",
+            "alt": "img",
+            "size": "M",
+            "color": "#000000",
+            "brand": "Netplay",
+            "price": 37.99,
+            "name": "Polo White color stripe T-shirt",
+            "img": [
+                "https://assets.ajio.com/medias/sys_master/root/20240513/TZhF/6641b55a05ac7d77bb5676db/-473Wx593H-466993304-white-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240513/TZhF/6641b55a05ac7d77bb5676db/-473Wx593H-466993304-white-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240513/TZhF/6641b55a05ac7d77bb5676db/-473Wx593H-466993304-white-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240513/TZhF/6641b55a05ac7d77bb5676db/-473Wx593H-466993304-white-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240513/TZhF/6641b55a05ac7d77bb5676db/-473Wx593H-466993304-white-MODEL.jpg"
+            ],
+            "product_variations": {
+                "size": [
+                    {
+                        "value": "XS",
+                        "is_available": false
+                    },
+                    {
+                        "value": "S",
+                        "is_available": true
+                    },
+                    {
+                        "value": "M",
+                        "is_available": true
+                    },
+                    {
+                        "value": "L",
+                        "is_available": false
+                    },
+                    {
+                        "value": "XL",
+                        "is_available": true
+                    },
+                    {
+                        "value": "XXL",
+                        "is_available": false
+                    }
+                ],
+                "color": [
+                    {
+                        "value": "#ffffff",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#808000",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#000000",
+                        "is_available": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "src": "https://assets.ajio.com/medias/sys_master/root/20240513/pNAK/6641b6a305ac7d77bb56806b/-473Wx593H-466993304-teal-MODEL.jpg",
+            "alt": "img",
+            "color": "#13435a",
+            "size": "M",
+            "brand": "Fort Collins",
+            "price": 45.99,
+            "name": "Polo T-shirt",
+            "img": [
+                "https://assets.ajio.com/medias/sys_master/root/20240513/pNAK/6641b6a305ac7d77bb56806b/-473Wx593H-466993304-teal-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240513/pNAK/6641b6a305ac7d77bb56806b/-473Wx593H-466993304-teal-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240513/pNAK/6641b6a305ac7d77bb56806b/-473Wx593H-466993304-teal-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240513/pNAK/6641b6a305ac7d77bb56806b/-473Wx593H-466993304-teal-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240513/pNAK/6641b6a305ac7d77bb56806b/-473Wx593H-466993304-teal-MODEL.jpg"
+            ],
+            "product_variations": {
+                "size": [
+                    {
+                        "value": "XS",
+                        "is_available": false
+                    },
+                    {
+                        "value": "S",
+                        "is_available": true
+                    },
+                    {
+                        "value": "M",
+                        "is_available": true
+                    },
+                    {
+                        "value": "L",
+                        "is_available": false
+                    },
+                    {
+                        "value": "XL",
+                        "is_available": true
+                    },
+                    {
+                        "value": "XXL",
+                        "is_available": false
+                    }
+                ],
+                "color": [
+                    {
+                        "value": "#ffffff",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#13435a",
+                        "is_available": true
+                    },
+                    {
+                        "value": "#000000",
+                        "is_available": false
+                    }
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "src": "https://assets.ajio.com/medias/sys_master/root/20230906/j4bW/64f8fee0ddf7791519bd214a/-473Wx593H-466538745-grey-MODEL.jpg",
+            "alt": "img",
+            "size": "M",
+            "color": "#94948a",
+            "brand": "Prada",
+            "price": 39.99,
+            "name": "Slim-Fit Half T-Shirt",
+            "img": [
+                "https://assets.ajio.com/medias/sys_master/root/20230906/j4bW/64f8fee0ddf7791519bd214a/-473Wx593H-466538745-grey-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230906/j4bW/64f8fee0ddf7791519bd214a/-473Wx593H-466538745-grey-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230906/j4bW/64f8fee0ddf7791519bd214a/-473Wx593H-466538745-grey-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230906/j4bW/64f8fee0ddf7791519bd214a/-473Wx593H-466538745-grey-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230906/j4bW/64f8fee0ddf7791519bd214a/-473Wx593H-466538745-grey-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20230906/j4bW/64f8fee0ddf7791519bd214a/-473Wx593H-466538745-grey-MODEL.jpg"
+            ],
+            "product_variations": {
+                "size": [
+                    {
+                        "value": "XS",
+                        "is_available": false
+                    },
+                    {
+                        "value": "S",
+                        "is_available": true
+                    },
+                    {
+                        "value": "M",
+                        "is_available": true
+                    },
+                    {
+                        "value": "L",
+                        "is_available": false
+                    },
+                    {
+                        "value": "XL",
+                        "is_available": true
+                    },
+                    {
+                        "value": "XXL",
+                        "is_available": false
+                    }
+                ],
+                "color": [
+                    {
+                        "value": "#ffffff",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#808000",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#94948a",
+                        "is_available": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "src": "https://assets.ajio.com/medias/sys_master/root/20240502/EcJQ/6633c0ff05ac7d77bb3a102e/-473Wx593H-467297288-maroon-MODEL.jpg",
+            "alt": "img",
+            "size": "M",
+            "color": "#320e10",
+            "brand": "Ralph lauren",
+            "price": 49.59,
+            "name": "Maroon Pullover ",
+            "img": [
+                "https://assets.ajio.com/medias/sys_master/root/20240502/EcJQ/6633c0ff05ac7d77bb3a102e/-473Wx593H-467297288-maroon-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240502/EcJQ/6633c0ff05ac7d77bb3a102e/-473Wx593H-467297288-maroon-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240502/EcJQ/6633c0ff05ac7d77bb3a102e/-473Wx593H-467297288-maroon-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240502/EcJQ/6633c0ff05ac7d77bb3a102e/-473Wx593H-467297288-maroon-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240502/EcJQ/6633c0ff05ac7d77bb3a102e/-473Wx593H-467297288-maroon-MODEL.jpg"
+            ],
+            "product_variations": {
+                "size": [
+                    {
+                        "value": "XS",
+                        "is_available": false
+                    },
+                    {
+                        "value": "S",
+                        "is_available": true
+                    },
+                    {
+                        "value": "M",
+                        "is_available": true
+                    },
+                    {
+                        "value": "L",
+                        "is_available": false
+                    },
+                    {
+                        "value": "XL",
+                        "is_available": true
+                    },
+                    {
+                        "value": "XXL",
+                        "is_available": false
+                    }
+                ],
+                "color": [
+                    {
+                        "value": "#ffffff",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#808000",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#320e10",
+                        "is_available": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "src": "https://assets.ajio.com/medias/sys_master/root/20240715/rTp9/669525526f60443f313d0e2d/-473Wx593H-441146987-beige-MODEL.jpg",
+            "alt": "img",
+            "size": "M",
+            "color": "#c0b7a6",
+            "brand": "Fort Collins",
+            "price": 48.79,
+            "name": "Beige Cool Tshirt",
+            "img": [
+                "https://assets.ajio.com/medias/sys_master/root/20240715/rTp9/669525526f60443f313d0e2d/-473Wx593H-441146987-beige-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240715/rTp9/669525526f60443f313d0e2d/-473Wx593H-441146987-beige-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240715/rTp9/669525526f60443f313d0e2d/-473Wx593H-441146987-beige-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240715/rTp9/669525526f60443f313d0e2d/-473Wx593H-441146987-beige-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240715/rTp9/669525526f60443f313d0e2d/-473Wx593H-441146987-beige-MODEL.jpg"
+            ],
+            "product_variations": {
+                "size": [
+                    {
+                        "value": "XS",
+                        "is_available": false
+                    },
+                    {
+                        "value": "S",
+                        "is_available": true
+                    },
+                    {
+                        "value": "M",
+                        "is_available": true
+                    },
+                    {
+                        "value": "L",
+                        "is_available": false
+                    },
+                    {
+                        "value": "XL",
+                        "is_available": true
+                    },
+                    {
+                        "value": "XXL",
+                        "is_available": false
+                    }
+                ],
+                "color": [
+                    {
+                        "value": "#ffffff",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#808000",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#c0b7a6",
+                        "is_available": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "src": "https://assets.ajio.com/medias/sys_master/root/20240628/VXwO/667de01a6f60443f31d6b273/-473Wx593H-700132759-blue-MODEL.jpg",
+            "alt": "img",
+            "color": "#1e75dc",
+            "size": "M",
+            "brand": "PUMA",
+            "price": 58.99,
+            "name": "Regular Crew-Neck T-Shirt with Logo",
+            "img": [
+                "https://assets.ajio.com/medias/sys_master/root/20240628/VXwO/667de01a6f60443f31d6b273/-473Wx593H-700132759-blue-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240628/VXwO/667de01a6f60443f31d6b273/-473Wx593H-700132759-blue-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240628/VXwO/667de01a6f60443f31d6b273/-473Wx593H-700132759-blue-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240628/VXwO/667de01a6f60443f31d6b273/-473Wx593H-700132759-blue-MODEL.jpg",
+                "https://assets.ajio.com/medias/sys_master/root/20240628/VXwO/667de01a6f60443f31d6b273/-473Wx593H-700132759-blue-MODEL.jpg"
+            ],
+            "product_variations": {
+                "size": [
+                    {
+                        "value": "XS",
+                        "is_available": false
+                    },
+                    {
+                        "value": "S",
+                        "is_available": true
+                    },
+                    {
+                        "value": "M",
+                        "is_available": true
+                    },
+                    {
+                        "value": "L",
+                        "is_available": false
+                    },
+                    {
+                        "value": "XL",
+                        "is_available": true
+                    },
+                    {
+                        "value": "XXL",
+                        "is_available": false
+                    }
+                ],
+                "color": [
+                    {
+                        "value": "#ffffff",
+                        "name": "white",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#808000",
+                        "is_available": false
+                    },
+                    {
+                        "value": "#1e75dc",
+                        "is_available": true
+                    },
+                    {
+                        "value": "#000000",
+                        "is_available": false
+                    }
+                ]
+            }
+        }
+    ],
+    "shirts": [
+        {
+            "asin": "B0787P86ZZ",
+            "product_title": "Gildan Men's Crew T-Shirts, Multipack, Style G1100",
+            "product_price": "$19.97",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 295109,
+            "product_url": "https://www.amazon.com/dp/B0787P86ZZ",
+            "product_photo": "https://m.media-amazon.com/images/I/710o0VupScL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$19.97",
+            "is_best_seller": true,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "6K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B086KXNGKY",
+            "product_title": "Hanes Men's Pocket Undershirt Pack, Cotton Crew Neck T-Shirt, Moisture Wicking Tee, Assorted 6-Pack",
+            "product_price": "$21.98",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.4",
+            "product_num_ratings": 26074,
+            "product_url": "https://www.amazon.com/dp/B086KXNGKY",
+            "product_photo": "https://m.media-amazon.com/images/I/61NxWlAdrpL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$21.98",
+            "is_best_seller": false,
+            "is_amazon_choice": true,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "6K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B08F2NSN4G",
+            "product_title": "Fruit of the Loom Men's Eversoft Cotton Stay Tucked Crew T-Shirt",
+            "product_price": "$21.48",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 126592,
+            "product_url": "https://www.amazon.com/dp/B08F2NSN4G",
+            "product_photo": "https://m.media-amazon.com/images/I/71GX5QGOKsL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$21.48",
+            "is_best_seller": true,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "3K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B00NOY3JKW",
+            "product_title": "Hanes Men's T-Shirt, Beefy-T Heavyweight Cotton Crewneck Tee, 1 or 2 Pack, Available in Tall Sizes",
+            "product_price": null,
+            "product_original_price": null,
+            "currency": null,
+            "product_star_rating": "4.5",
+            "product_num_ratings": 58559,
+            "product_url": "https://www.amazon.com/dp/B00NOY3JKW",
+            "product_photo": "https://m.media-amazon.com/images/I/71zRMNf2uvL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": null,
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "3K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B07DJBDB84",
+            "product_title": "Champion Men'S Tshirt, Classic Graphic Tshirt Soft And Comfortable T-Shirts For Men, Script Logo Reg. Or Big &amp; Tall",
+            "product_price": "$11.24",
+            "product_original_price": "$25.00",
+            "currency": "USD",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 62644,
+            "product_url": "https://www.amazon.com/dp/B07DJBDB84",
+            "product_photo": "https://m.media-amazon.com/images/I/51xz0O7su-L._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$11.24",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": false,
+            "climate_pledge_friendly": false,
+            "sales_volume": "1K+ bought in past month",
+            "delivery": "FREE delivery Aug 27 - 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B0785VV446",
+            "product_title": "Under Armour Men's Tech 2.0 Short-Sleeve T-Shirt",
+            "product_price": "$18.75",
+            "product_original_price": "$25.00",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 94198,
+            "product_url": "https://www.amazon.com/dp/B0785VV446",
+            "product_photo": "https://m.media-amazon.com/images/I/810Scj-0BxL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$18.75",
+            "is_best_seller": true,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "5K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B01EKB41LS",
+            "product_title": "Hanes Men’s Short Sleeve Graphic T-shirt Collection",
+            "product_price": "$9.95",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 67909,
+            "product_url": "https://www.amazon.com/dp/B01EKB41LS",
+            "product_photo": "https://m.media-amazon.com/images/I/81MHRfnVZvL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$9.95",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "400+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B07NFSTB2Z",
+            "product_title": "Tommy Hilfiger Men's Essential Short Sleeve Cotton Crewneck Pocket T-Shirt",
+            "product_price": "$19.74",
+            "product_original_price": "$29.50",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 4886,
+            "product_url": "https://www.amazon.com/dp/B07NFSTB2Z",
+            "product_photo": "https://m.media-amazon.com/images/I/91IpRmymhHL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$19.74",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "400+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B07GBX9YH6",
+            "product_title": "POLO RALPH LAUREN Mens Classic Fit Crews 3 Pack",
+            "product_price": "$49.50",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 12848,
+            "product_url": "https://www.amazon.com/dp/B07GBX9YH6",
+            "product_photo": "https://m.media-amazon.com/images/I/71y6pSZ6GML._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$49.50",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "600+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 Or fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B00L6PI71W",
+            "product_title": "Hanes Men's Cotton, Moisture-Wicking Crew Tee Undershirts, Multi-Packs Available",
+            "product_price": "$17.44",
+            "product_original_price": "$19.00",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 69141,
+            "product_url": "https://www.amazon.com/dp/B00L6PI71W",
+            "product_photo": "https://m.media-amazon.com/images/I/51lcacCccHL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$17.44",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "3K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Thu, Aug 29",
+            "has_variations": true
+        },
+        {
+            "asin": "B01MYWGRYW",
+            "product_title": "Champion Men'S Classic T-Shirt, Everyday Tee For Men, Comfortable Soft Men'S T-Shirt (Reg. Or Big &amp; Tall)",
+            "product_price": "$15.00",
+            "product_original_price": "$20.00",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 34051,
+            "product_url": "https://www.amazon.com/dp/B01MYWGRYW",
+            "product_photo": "https://m.media-amazon.com/images/I/81sXWS93m-L._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$15.00",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "700+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B00KBZOTKQ",
+            "product_title": "Hanes Mens Essentials T-Shirt Pack, Crewneck Cotton T-Shirts For Men, 4 Or 6 Pack Available",
+            "product_price": "$19.55",
+            "product_original_price": "$26.00",
+            "currency": "USD",
+            "product_star_rating": "4.4",
+            "product_num_ratings": 94312,
+            "product_url": "https://www.amazon.com/dp/B00KBZOTKQ",
+            "product_photo": "https://m.media-amazon.com/images/I/612OCczgZHL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$19.55",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "1K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": false
+        },
+        {
+            "asin": "B0CKM7KVF3",
+            "product_title": "adidas Men's Camouflage Badge of Sport Graphic T-shirt",
+            "product_price": "$19.36",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 15,
+            "product_url": "https://www.amazon.com/dp/B0CKM7KVF3",
+            "product_photo": "https://m.media-amazon.com/images/I/71oPGa0Z2ZL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$19.36",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "100+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B0CSWGBR4L",
+            "product_title": "HovSiyla 1/5 Pack Running Shirts Men Sport Tops Dry Fit Gym Wicking Athletic T Shirts Breathable Cool Workout Shirts",
+            "product_price": "$19.99",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.3",
+            "product_num_ratings": 250,
+            "product_url": "https://www.amazon.com/dp/B0CSWGBR4L",
+            "product_photo": "https://m.media-amazon.com/images/I/61SzLhWkjKL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$19.99",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "2K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B0711CH2PT",
+            "product_title": "Russell Athletic Men's Dri-Power Cotton Blend Short Sleeve Tees, Moisture Wicking, Odor Protection, UPF 30+, Sizes S-4x",
+            "product_price": "$6.82",
+            "product_original_price": "$10.99",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 34320,
+            "product_url": "https://www.amazon.com/dp/B0711CH2PT",
+            "product_photo": "https://m.media-amazon.com/images/I/71F4P1t80EL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$6.82",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "1K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B07612754Q",
+            "product_title": "Gildan Unisex-Adult Ultra Cotton T-Shirt, Style G2000, Multipack",
+            "product_price": "$11.81",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 97804,
+            "product_url": "https://www.amazon.com/dp/B07612754Q",
+            "product_photo": "https://m.media-amazon.com/images/I/614rbIVRUJL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$11.81",
+            "is_best_seller": true,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "1K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B0CCBX9VZG",
+            "product_title": "GAP Men's Everyday Soft Logo Tee",
+            "product_price": "$12.49",
+            "product_original_price": "$24.99",
+            "currency": "USD",
+            "product_star_rating": "4.7",
+            "product_num_ratings": 286,
+            "product_url": "https://www.amazon.com/dp/B0CCBX9VZG",
+            "product_photo": "https://m.media-amazon.com/images/I/61ezJduJOgL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$12.49",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "50+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B0000ANHSZ",
+            "product_title": "Carhartt Men's Loose Fit Heavyweight Short-Sleeve Pocket T-Shirt",
+            "product_price": "$19.99",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 108584,
+            "product_url": "https://www.amazon.com/dp/B0000ANHSZ",
+            "product_photo": "https://m.media-amazon.com/images/I/814hp8QMsjL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$19.99",
+            "is_best_seller": true,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "1K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B096DX1P3H",
+            "product_title": "Columbia Men's Thistletown Hills Short Sleeve",
+            "product_price": "$25.00",
+            "product_original_price": "$36.00",
+            "currency": "USD",
+            "product_star_rating": "4.4",
+            "product_num_ratings": 43,
+            "product_url": "https://www.amazon.com/dp/B096DX1P3H",
+            "product_photo": "https://m.media-amazon.com/images/I/61mvRXYREKL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$25.00",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "100+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B0785FGJPB",
+            "product_title": "Under Armour Men's Sportstyle Left Chest Short Sleeve T-Shirt",
+            "product_price": "$19.98",
+            "product_original_price": "$25.00",
+            "currency": "USD",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 1593,
+            "product_url": "https://www.amazon.com/dp/B0785FGJPB",
+            "product_photo": "https://m.media-amazon.com/images/I/6172Qr000GL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$19.98",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "800+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B07HRGTLBC",
+            "product_title": "Nautica Men's Solid Crew Neck Short-Sleeve Pocket T-Shirt",
+            "product_price": "$23.99",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 13346,
+            "product_url": "https://www.amazon.com/dp/B07HRGTLBC",
+            "product_photo": "https://m.media-amazon.com/images/I/71Jz4CugcRL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$23.99",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": null,
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B09B5CP1SQ",
+            "product_title": "AKAWOOKO 5 Pack Men's Dry Fit T Shirts, Athletic Running Gym Workout Short Sleeve Tee Shirts for Men",
+            "product_price": "$26.99",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.3",
+            "product_num_ratings": 7230,
+            "product_url": "https://www.amazon.com/dp/B09B5CP1SQ",
+            "product_photo": "https://m.media-amazon.com/images/I/81fRiskSVjL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$26.99",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "1K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B0BNK2P4F4",
+            "product_title": "Hanes mens Ultimate Crewneck T-Shirt",
+            "product_price": "$6.07",
+            "product_original_price": "$6.90",
+            "currency": "USD",
+            "product_star_rating": "4.4",
+            "product_num_ratings": 1099,
+            "product_url": "https://www.amazon.com/dp/B0BNK2P4F4",
+            "product_photo": "https://m.media-amazon.com/images/I/41ApzXwvr4L._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$6.07",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": false,
+            "climate_pledge_friendly": false,
+            "sales_volume": "100+ bought in past month",
+            "delivery": "FREE delivery Aug 29 - Sep 4",
+            "has_variations": true
+        },
+        {
+            "asin": "B08F2PW4TT",
+            "product_title": "Fruit of the Loom Men's Eversoft Cotton Short Sleeve Pocket T-Shirts, Breathable &amp; Tag Free",
+            "product_price": "$19.75",
+            "product_original_price": "$21.49",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 64755,
+            "product_url": "https://www.amazon.com/dp/B08F2PW4TT",
+            "product_photo": "https://m.media-amazon.com/images/I/81SIfJkBVTL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$19.75",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "1K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": false
+        },
+        {
+            "asin": "B00QFRWL9A",
+            "product_title": "Fruit of the Loom Men's Premium Crew Tee",
+            "product_price": "$6.17",
+            "product_original_price": "$7.46",
+            "currency": "USD",
+            "product_star_rating": "4.2",
+            "product_num_ratings": 5964,
+            "product_url": "https://www.amazon.com/dp/B00QFRWL9A",
+            "product_photo": "https://m.media-amazon.com/images/I/7101eZlcCPL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$6.17",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": false,
+            "climate_pledge_friendly": false,
+            "sales_volume": "100+ bought in past month",
+            "delivery": "FREE delivery Sep 4 - 5",
+            "has_variations": true
+        },
+        {
+            "asin": "B00JULYVMS",
+            "product_title": "Hanes Men's Heavyweight Pocket T-Shirt, Beefy-T Full-Cut Cotton Pocket Tee for Men, Crewneck T-Shirt For Men, 1 or 2 Pack",
+            "product_price": "$10.29",
+            "product_original_price": "$26.00",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 17495,
+            "product_url": "https://www.amazon.com/dp/B00JULYVMS",
+            "product_photo": "https://m.media-amazon.com/images/I/81wtmWqfWlL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$10.29",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "400+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B07VTSD48H",
+            "product_title": "Liberty Imports 5 Pack Men’s Active Quick Dry Crew Neck T Shirts | Athletic Running Gym Workout Short Sleeve Tee Tops Bulk",
+            "product_price": "$39.95",
+            "product_original_price": "$59.95",
+            "currency": "USD",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 43693,
+            "product_url": "https://www.amazon.com/dp/B07VTSD48H",
+            "product_photo": "https://m.media-amazon.com/images/I/81gHzitlpsL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$39.95",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "1K+ bought in past month",
+            "delivery": "FREE delivery Tue, Sep 3 Or fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B073JW1NQ5",
+            "product_title": "Levi's Men's Graphic Tees (Also Available in Big &amp; Tall)",
+            "product_price": "$17.15",
+            "product_original_price": "$29.50",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 2937,
+            "product_url": "https://www.amazon.com/dp/B073JW1NQ5",
+            "product_photo": "https://m.media-amazon.com/images/I/51VlqAAdGVL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$17.15",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "50+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B09YB5212V",
+            "product_title": "adidas Men's Essentials Feel Ready Training T-Shirt",
+            "product_price": "$24.00",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 719,
+            "product_url": "https://www.amazon.com/dp/B09YB5212V",
+            "product_photo": "https://m.media-amazon.com/images/I/61VQV4pkNVL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$24.00",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "500+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B0C12G9Y7S",
+            "product_title": "Under Armour Men's Global Foundation Short Sleeve T Shirt",
+            "product_price": "$23.24",
+            "product_original_price": "$25.00",
+            "currency": "USD",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 288,
+            "product_url": "https://www.amazon.com/dp/B0C12G9Y7S",
+            "product_photo": "https://m.media-amazon.com/images/I/71UbQpu-oqL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$23.24",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "100+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B08XTZZ4DT",
+            "product_title": "INTO THE AM Mens T Shirt - Short Sleeve Crew Neck Soft Fitted Tees S - 4XL Fresh Classic Tshirts",
+            "product_price": "$24.95",
+            "product_original_price": "$29.95",
+            "currency": "USD",
+            "product_star_rating": "4.3",
+            "product_num_ratings": 9707,
+            "product_url": "https://www.amazon.com/dp/B08XTZZ4DT",
+            "product_photo": "https://m.media-amazon.com/images/I/61E4URgY4xL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$24.95",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "1K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": false
+        },
+        {
+            "asin": "B078B279BD",
+            "product_title": "Under Armour UA Boxed Sportstyle",
+            "product_price": "$19.99",
+            "product_original_price": "$25.00",
+            "currency": "USD",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 30690,
+            "product_url": "https://www.amazon.com/dp/B078B279BD",
+            "product_photo": "https://m.media-amazon.com/images/I/41UvQezyiBL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$19.99",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "200+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B010276VT4",
+            "product_title": "Hanes Men's T-Shirts, Men's BeefyT Henley Shirts, Men's Cotton Long Sleeve Shirts",
+            "product_price": "$7.62",
+            "product_original_price": "$20.00",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 84251,
+            "product_url": "https://www.amazon.com/dp/B010276VT4",
+            "product_photo": "https://m.media-amazon.com/images/I/71BioVwZhkL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$7.62",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "200+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B0734GX9YT",
+            "product_title": "Pro Club Men's 3-Pack Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
+            "product_price": "$21.99",
+            "product_original_price": "$29.88",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 12212,
+            "product_url": "https://www.amazon.com/dp/B0734GX9YT",
+            "product_photo": "https://m.media-amazon.com/images/I/71zzBYSuuCL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$21.99",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": false,
+            "climate_pledge_friendly": false,
+            "sales_volume": "2K+ bought in past month",
+            "delivery": "FREE delivery Aug 30 - Sep 3 Or fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B08NWJL7VX",
+            "product_title": "Under Armour Men's New Freedom Flag T-Shirt",
+            "product_price": "$24.98",
+            "product_original_price": "$30.00",
+            "currency": "USD",
+            "product_star_rating": "4.8",
+            "product_num_ratings": 327,
+            "product_url": "https://www.amazon.com/dp/B08NWJL7VX",
+            "product_photo": "https://m.media-amazon.com/images/I/810o1lNDFhL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$24.98",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "200+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B00T7TXS2W",
+            "product_title": "Jerzees Men's Dri-Power Cotton Blend Long Sleeve Tees, Moisture Wicking, Odor Protection, UPF 30+, Sizes S-3x",
+            "product_price": "$10.44",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 60100,
+            "product_url": "https://www.amazon.com/dp/B00T7TXS2W",
+            "product_photo": "https://m.media-amazon.com/images/I/71c7eRazT8S._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$10.44",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "900+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B084HLD1XX",
+            "product_title": "Calvin Klein Men's Cotton Classics 3-Pack Undershirts",
+            "product_price": "$34.03",
+            "product_original_price": "$46.00",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 2122,
+            "product_url": "https://www.amazon.com/dp/B084HLD1XX",
+            "product_photo": "https://m.media-amazon.com/images/I/51osVbRN6lL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$34.03",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "600+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B07682XJM1",
+            "product_title": "Gildan Unisex-Adult Dryblend T-Shirt, Style G8000, Multipack",
+            "product_price": "$11.41",
+            "product_original_price": "$14.49",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 14172,
+            "product_url": "https://www.amazon.com/dp/B07682XJM1",
+            "product_photo": "https://m.media-amazon.com/images/I/61E8ci-FoEL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$11.41",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": false,
+            "climate_pledge_friendly": true,
+            "sales_volume": "900+ bought in past month",
+            "delivery": "FREE delivery Aug 29 - 30 Or fastest delivery Aug 27 - 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B083W5HW97",
+            "product_title": "Fruit of the Loom Men's Iconic T-Shirt",
+            "product_price": "$7.84",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.4",
+            "product_num_ratings": 494,
+            "product_url": "https://www.amazon.com/dp/B083W5HW97",
+            "product_photo": "https://m.media-amazon.com/images/I/61e76Rz-jrL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$7.84",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": false,
+            "climate_pledge_friendly": false,
+            "sales_volume": "50+ bought in past month",
+            "delivery": "FREE delivery Aug 29 - 30 Or fastest delivery Aug 27 - 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B08BC4HDS2",
+            "product_title": "MCPORO Workout Shirts for Men Short Sleeve Quick Dry Athletic Gym Active T Shirt Moisture Wicking",
+            "product_price": "$43.99",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.4",
+            "product_num_ratings": 9820,
+            "product_url": "https://www.amazon.com/dp/B08BC4HDS2",
+            "product_photo": "https://m.media-amazon.com/images/I/81h2yu7SFML._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$43.99",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "1K+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 Or fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B0CN83K6S7",
+            "product_title": "Carhartt Men's Loose Fit Heavyweight Short-Sleeve Logo Graphic T-Shirt",
+            "product_price": "$12.49",
+            "product_original_price": "$24.99",
+            "currency": "USD",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 15856,
+            "product_url": "https://www.amazon.com/dp/B0CN83K6S7",
+            "product_photo": "https://m.media-amazon.com/images/I/51GOZ-rd7ML._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$12.49",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "200+ bought in past month",
+            "delivery": "FREE delivery on $35 shipped by Amazon.",
+            "has_variations": true
+        },
+        {
+            "asin": "B093151XR7",
+            "product_title": "Gildan Men's V-Neck T-Shirts, Multipack, Style G1103",
+            "product_price": "$20.97",
+            "product_original_price": "$21.99",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 134748,
+            "product_url": "https://www.amazon.com/dp/B093151XR7",
+            "product_photo": "https://m.media-amazon.com/images/I/81FBQubVhnS._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$20.97",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "700+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B0CN85S5ML",
+            "product_title": "Carhartt Men's Loose Fit Heavyweight ShortSleeve C Graphic TShirt",
+            "product_price": "$12.49",
+            "product_original_price": "$24.99",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 125,
+            "product_url": "https://www.amazon.com/dp/B0CN85S5ML",
+            "product_photo": "https://m.media-amazon.com/images/I/51ORS-hU9RL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$12.49",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": false,
+            "climate_pledge_friendly": false,
+            "sales_volume": "200+ bought in past month",
+            "delivery": "FREE delivery on $35 shipped by Amazon.",
+            "has_variations": true
+        },
+        {
+            "asin": "B088CQZSNX",
+            "product_title": "INTO THE AM Mens T Shirt with Logo - Short Sleeve Crew Neck Soft Fitted Tees S - 4XL Fresh Classic Basic Tshirts",
+            "product_price": "$24.95",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 24816,
+            "product_url": "https://www.amazon.com/dp/B088CQZSNX",
+            "product_photo": "https://m.media-amazon.com/images/I/81+bV-88LNL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$24.95",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "100+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B07QNJ7C4X",
+            "product_title": "Dickies Men's Heavyweight Crew Neck Short Sleeve Tee",
+            "product_price": "$16.99",
+            "product_original_price": "$19.99",
+            "currency": "USD",
+            "product_star_rating": "4.5",
+            "product_num_ratings": 40691,
+            "product_url": "https://www.amazon.com/dp/B07QNJ7C4X",
+            "product_photo": "https://m.media-amazon.com/images/I/81BkhXY+yyL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$16.99",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "50+ bought in past month",
+            "delivery": "FREE delivery Wed, Sep 4 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B07SVJM95H",
+            "product_title": "Tommy Hilfiger Flag Stripe Tee",
+            "product_price": null,
+            "product_original_price": null,
+            "currency": null,
+            "product_star_rating": "4.6",
+            "product_num_ratings": 6227,
+            "product_url": "https://www.amazon.com/dp/B07SVJM95H",
+            "product_photo": "https://m.media-amazon.com/images/I/81wyd-4pPiL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": null,
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "100+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B07NHW8Z3N",
+            "product_title": "Kingsted T-Shirts for Men Pack - Royally Comfortable - Super Soft Premium Fabric - Well-Crafted Classic Tee",
+            "product_price": "$45.98",
+            "product_original_price": null,
+            "currency": "USD",
+            "product_star_rating": "4.3",
+            "product_num_ratings": 9825,
+            "product_url": "https://www.amazon.com/dp/B07NHW8Z3N",
+            "product_photo": "https://m.media-amazon.com/images/I/617IjJArgKL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$45.98",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": false,
+            "sales_volume": "700+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 Or fastest delivery Wed, Aug 28",
+            "has_variations": true
+        },
+        {
+            "asin": "B08N2P6SKS",
+            "product_title": "Fruit of the Loom Men's Eversoft Cotton Stay Tucked V-Neck T-Shirt",
+            "product_price": "$17.48",
+            "product_original_price": "$18.99",
+            "currency": "USD",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 47005,
+            "product_url": "https://www.amazon.com/dp/B08N2P6SKS",
+            "product_photo": "https://m.media-amazon.com/images/I/51sc3-LB+hL._AC_UL960_FMwebp_QL65_.jpg",
+            "product_num_offers": 1,
+            "product_minimum_offer_price": "$17.48",
+            "is_best_seller": false,
+            "is_amazon_choice": false,
+            "is_prime": true,
+            "climate_pledge_friendly": true,
+            "sales_volume": "900+ bought in past month",
+            "delivery": "FREE delivery Fri, Aug 30 on $35 of items shipped by AmazonOr fastest delivery Wed, Aug 28",
+            "has_variations": true
+        }
+    ],
+    "products": [
+        {
+            "asin": "B0787P86ZZ",
+            "product_title": "Gildan Men's Crew T-Shirts, Multipack, Style G1100",
+            "product_price": "$16.80",
+            "product_original_price": null,
+            "product_price_max": "$73.03",
+            "currency": "USD",
+            "country": "US",
+            "product_byline": "Visit the Gildan Store",
+            "product_star_rating": "4.6",
+            "product_num_ratings": 295108,
+            "product_url": "https://www.amazon.com/dp/B0787P86ZZ",
+            "product_photo": "https://m.media-amazon.com/images/I/710o0VupScL._AC_SL1500_.jpg",
+            "product_num_offers": 1,
+            "product_availability": null,
+            "is_best_seller": true,
+            "is_amazon_choice": false,
+            "is_prime": false,
+            "climate_pledge_friendly": true,
+            "sales_volume": null,
+            "about_product": [
+                "Soft, breathable cotton",
+                "Moisture wicking technology keeps you cool and dry",
+                "Tag-free to prevent irritation",
+                "Classic length for easy tucking",
+                "Durable stitching",
+                "Lay-flat collar"
+            ],
+            "product_description": "Gildan Cotton Crew Neck T-Shirts are anything but basic. Crafted with soft, breathable cotton and moisture wicking technology to keep you cool and comfortable no matter what's on the agenda. Perfect for layering or lounging - you can thank us later.",
+            "product_information": {
+                "Package Dimensions": "13.55 x 11.55 x 2.55 inches; 3.35 Pounds",
+                "Item model number": "G1100",
+                "Department": "mens",
+                "Date First Available": "October 24, 2023",
+                "Manufacturer": "Gildan",
+                "ASIN": "B0CLPJDW6G",
+                "Best Sellers Rank": "#3 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry)    #1 in Men's T-Shirts",
+                "Customer Reviews": "4.6    4.6 out of 5 stars     \n\n                       295,108 ratings"
+            },
+            "product_photos": [
+                "https://m.media-amazon.com/images/I/710o0VupScL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61aARaV0OJL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61IZp0jCBxL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/712fxKCtxXL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61pXvLY9wJL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61a-xRd9gdL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81i56nk9QmL._AC_SL1500_.jpg"
+            ],
+            "product_details": {
+                "Fabric type": "100% Cotton",
+                "Care instructions": "Machine Wash",
+                "Origin": "Imported",
+                "Closure type": "Pull On"
+            },
+            "customers_say": "Customers like the quality, fit, comfort, and value of the t-shirt. For example, they mention it's well made, soft, and comfortable. Some appreciate the color fading, and versatility. That said, some complain about the shrinkage. Opinions are mixed on thickness.",
+            "category_path": [
+                {
+                    "id": "7141123011",
+                    "name": "Clothing, Shoes & Jewelry",
+                    "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+                },
+                {
+                    "id": "7147441011",
+                    "name": "Men",
+                    "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+                },
+                {
+                    "id": "1040658",
+                    "name": "Clothing",
+                    "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+                },
+                {
+                    "id": "2476517011",
+                    "name": "Shirts",
+                    "link": "https://www.amazon.com/Mens-Shirts/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2476517011"
+                },
+                {
+                    "id": "1045624",
+                    "name": "T-Shirts",
+                    "link": "https://www.amazon.com/Mens-T-Shirts/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1045624"
+                }
+            ],
+            "product_variations": {
+                "number_of_items": [
+                    {
+                        "asin": "B077ZKF9ZN",
+                        "value": "5",
+                        "is_available": true
+                    },
+                    {
+                        "asin": "B07JBS59X1",
+                        "value": "6",
+                        "is_available": false
+                    },
+                    {
+                        "asin": "B0CLPJ69K5",
+                        "value": "10",
+                        "is_available": false
+                    },
+                    {
+                        "asin": "B0CLPJDW6G",
+                        "value": "12",
+                        "is_available": false
+                    }
+                ],
+                "color": [
+                    {
+                        "asin": "B0CLPJDW6G",
+                        "value": "Black (12-pack)",
+                        "photo": "https://m.media-amazon.com/images/I/31aZGHvJCHL.jpg",
+                        "is_available": false
+                    },
+                    {
+                        "asin": "B07JBS59X1",
+                        "value": "Black (6-pack)",
+                        "photo": "https://m.media-amazon.com/images/I/31Xy4jN2CfL.jpg",
+                        "is_available": false
+                    },
+                    {
+                        "asin": "B0CLPJ69K5",
+                        "value": "Black/Sport Grey/Charcoal (10-pack)",
+                        "photo": "https://m.media-amazon.com/images/I/31-6BHmGipL.jpg",
+                        "is_available": false
+                    },
+                    {
+                        "asin": "B077ZKF9ZN",
+                        "value": "Black/Sport Grey/Charcoal (5-pack)",
+                        "photo": "https://m.media-amazon.com/images/I/41qxk4H935L.jpg",
+                        "is_available": true
+                    },
+                    {
+                        "asin": "B09315H9L3",
+                        "value": "Black/Sport Grey/Military Green (5-pack)",
+                        "photo": "https://m.media-amazon.com/images/I/41RmjwkTjBS.jpg",
+                        "is_available": true
+                    },
+                    {
+                        "asin": "B07XVYB5FF",
+                        "value": "Navy/Charcoal/Cardinal Red (5-pack)",
+                        "photo": "https://m.media-amazon.com/images/I/31d3otVry0L.jpg",
+                        "is_available": true
+                    },
+                    {
+                        "asin": "B093116X8D",
+                        "value": "Navy/Heather Navy/Indigo Blue (5-pack)",
+                        "photo": "https://m.media-amazon.com/images/I/41MhaUFfRyS.jpg",
+                        "is_available": true
+                    },
+                    {
+                        "asin": "B07CX4V3CW",
+                        "value": "White (12-pack)",
+                        "photo": "https://m.media-amazon.com/images/I/21puh4Hll2L.jpg",
+                        "is_available": false
+                    },
+                    {
+                        "asin": "B077ZCT9SS",
+                        "value": "White (6-pack)",
+                        "photo": "https://m.media-amazon.com/images/I/31DEMbU5EUL.jpg",
+                        "is_available": false
+                    },
+                    {
+                        "asin": "B07CX29M2V",
+                        "value": "White (10-pack)",
+                        "photo": "https://m.media-amazon.com/images/I/41XnIUbD+zL.jpg",
+                        "is_available": false
+                    }
+                ],
+                "size": [
+                    {
+                        "asin": "B077ZKF9ZN",
+                        "value": "Small",
+                        "is_available": true
+                    },
+                    {
+                        "asin": "B077ZKDQLV",
+                        "value": "Medium",
+                        "is_available": true
+                    },
+                    {
+                        "asin": "B0787P86ZZ",
+                        "value": "Large",
+                        "is_available": true
+                    },
+                    {
+                        "asin": "B077ZJXCTS",
+                        "value": "X-Large",
+                        "is_available": true
+                    },
+                    {
+                        "asin": "B07JDGBX9D",
+                        "value": "XX-Large",
+                        "is_available": true
+                    }
+                ]
+            }
+        }
+    ],
+    "shoes": [
+        {
+            "src": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8d278c53-59f3-4bbc-a8af-3cd7d8fdc571/sb-blazer-low-pro-gt-shoes-ZpVNV6.png",
+            "alt": "img"
+        },
+        {
+            "src": "https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "img"
+        },
+        {
+            "src": "https://images.pexels.com/photos/1887975/pexels-photo-1887975.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "alt": "img"
+        },
+        {
+            "src": "https://images.pexels.com/photos/428311/pexels-photo-428311.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "alt": "img"
+        },
+        {
+            "src": "https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "alt": "img"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHw4SFg1Wmp3djFyNHx8ZW58MHx8fHx8",
+            "alt": "img"
+        },
+        {
+            "src": "https://images.pexels.com/photos/2315313/pexels-photo-2315313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "img"
+        },
+        {
+            "src": "https://images.pexels.com/photos/8498414/pexels-photo-8498414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "img"
+        },
+        {
+            "src": "https://images.pexels.com/photos/9558783/pexels-photo-9558783.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "img"
+        },
+        {
+            "src": "https://images.pexels.com/photos/8532616/pexels-photo-8532616.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "img"
+        },
+        {
+            "src": "https://media.istockphoto.com/id/1696725120/photo/portrait-of-handsome-young-man-giving-thumbs-up-against-gray-background.jpg?s=2048x2048&w=is&k=20&c=ieJkpur2v_1YtuIRVd_VaXsyPiAngsUvTcECMsTCyX4=",
+            "alt": "img"
+        }
+    ]
+}

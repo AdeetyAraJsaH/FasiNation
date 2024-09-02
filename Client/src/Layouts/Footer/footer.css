@@ -1,0 +1,10 @@
+.footer-footer li:hover {
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.788);
+    text-decoration: underline;
+}
+
+.footer-menu li span:hover {
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.788);
+}

@@ -1,0 +1,79 @@
+.custom-grid {
+    display: grid;
+    grid-auto-flow: row;
+    gap: 10px;
+    margin: 2%;
+    border: none;
+}
+
+.grid-element {
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.filter-element {
+    transition: width 0.5s ease;
+}
+
+.rotation-3d {
+    perspective: 400;
+    transform: rotateX(180deg);
+    transition: transform 200ms linear;
+}
+
+.-rotation-3d {
+    perspective: 400;
+    transform: rotateX(0deg);
+    transition: transform 200ms linear;
+}
+input[type="radio"]:checked+.image-label{
+    position: relative;
+}
+input[type="radio"]:checked+.image-label::before {
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: #0000004c;
+    
+}
+
+input[type="radio"]:checked+.size-label {
+    background-color: black;
+    border-color: black;
+    color: white;
+}
+
+input[type="radio"]:enabled:not(:checked):hover+.size-label {
+    cursor: pointer;
+    background-color: #474646;
+    color: white;
+    border-color: #474646;
+}
+
+input[type="radio"]:disabled+.size-label {
+    border-style: dashed;
+    border-color: #736e6e;
+}
+
+input[type="radio"]:checked+.color-label {
+    outline:auto;
+    outline-style: auto;
+    outline-offset: 2px;
+    outline-color: black;
+}
+
+input[type="radio"]:enabled:not(:checked):hover+.color-label {
+    cursor: pointer;
+    border-color: #464141;
+}
+
+input[type="radio"]:disabled+.color-label {
+    outline-offset: 2px;
+    outline-width: 2px;
+    outline-style: dashed;
+    outline-color: #7c7a7a;
+}
