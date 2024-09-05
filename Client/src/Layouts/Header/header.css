@@ -3,6 +3,28 @@
     animation: showline 200ms linear;
 }
 
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #eee;
+    z-index: 9999;
+    transition: all 300ms ease-in-out;
+}
+
+.scroll-down {
+    header {
+        transform: translate3d(0, -100%, 0);
+    }
+}
+
+.scroll-up {
+    header {
+        filter: drop-shadow(0 -10px 10px rgb(170, 170, 170));
+    }
+}
+
 @keyframes showline {
     from {
         width: 0%;

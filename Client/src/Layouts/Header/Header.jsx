@@ -7,27 +7,52 @@ import { Link, useLocation } from 'react-router-dom'
 import { GlobalContext } from '../../context/context';
 
 function Header() {
-    const { login, cart, favourites, query, setQuery } = React.useContext(GlobalContext);
+    const { login, cart, favourites, query, setQuery, fetchProducts } = React.useContext(GlobalContext);
+    // const searchInput = React.useRef();
+    // const path = useLocation().pathname
+    let lastScroll = 0;
     React.useEffect(() => {
-        if (query)
-            console.log(query)
-    }, [query])
+        const body = document.body;
+        const header = document.getElementById('header')
+        const handleScroll = () => {
+            const currentScroll = window.scrollY
+            if (currentScroll <= 0) {
+                body.classList.remove("scroll-up");
+                return;
+            }
+
+            if (currentScroll > 120 && currentScroll > lastScroll && !body.classList.contains("scroll-down")) {
+                body.classList.remove("scroll-up");
+                body.classList.add("scroll-down");
+            } else if (currentScroll < lastScroll && body.classList.contains("scroll-down")) {
+                body.classList.remove("scroll-down");
+                body.classList.add("scroll-up");
+            }
+            lastScroll = currentScroll;
+        }
+        window.addEventListener("scroll", handleScroll);
+        // return () => {
+        //     document.removeEventListener('click', handleScroll);
+        // };
+    }, [])
+
     const handleSubmit = () => {
         const searchQuery = document.getElementById('search-input');
         if (searchQuery) setQuery(searchQuery.value);
     }
+
     const hideLineAnimation = (e) => {
         const element = document.getElementById(`${e.currentTarget.dataset.val}`);
         element.classList.add('hideline-animation');
     }
     return (
-        <header id='header' className='relative z-50'>
+        <header id='header' className='w-full shadow-md'>
             <div className="drawer">
                 <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
                 <div className="drawer-content flex flex-col">
                     {/* Navbar */}
-                    <div className="flex flex-col w-full navbar bg-base-100 justify-between lg:pb-0">
-                        <div className='w-full flex justify-between items-base'>
+                    <div id='nav-bar' className="flex flex-col w-full  bg-base-100 justify-between">
+                        <div className='w-full flex justify-between items-center py-[2px]'>
                             <div className="flex-none md:hidden">
                                 <label htmlFor="my-drawer-3" aria-label="open sidebar" className="btn btn-square btn-ghost"
                                 // onMouseDown={() => { document.getElementById('drawer').classList.remove('-translate-x-[100%]') }}
@@ -38,8 +63,8 @@ function Header() {
                             <div >
                                 <a href="/"><img src={Logo1} alt="Logo" width={200} height={20} className=' mix-blend-multiply' /></a>
                             </div>
-                            <div className='flex'>
-                                <form onSubmit={handleSubmit} className='md:flex hidden bg-black/15 rounded-full px-4'>
+                            <div className='flex items-center'>
+                                <form onSubmit={handleSubmit} className='h-10 md:flex hidden bg-black/15 rounded-full px-4'>
                                     <button onClick={handleSubmit} type='button' className=' '><AiOutlineSearch color='Black' /></button>
                                     <label className="rounded-full flex mx-2 items-center bg-transparent">
                                         <input id="search-input" type="search" className="grow outline-none bg-transparent text-black placeholder-black" placeholder="Search" />
@@ -86,7 +111,7 @@ function Header() {
                                     </Link>
                                 </div>
                                 <div className=" divider divider-horizontal mx-2"></div>
-                                <div className='hidden md:block pt-3 mr-2'>
+                                <div className='hidden md:block mr-2'>
                                     <a href="#" className='hover:text-gray-500'>SignIn</a>
                                 </div>
                                 <button className='btn btn-ghost btn-square md:hidden px-0'><AiOutlineLogin size={25} /></button>
